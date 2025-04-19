@@ -1,0 +1,2 @@
+# Ubuntu
+setting up git
